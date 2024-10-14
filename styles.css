@@ -6,36 +6,30 @@ body {
 
 h1, h3 {
     text-align: center;
-    color: #333;
-}
-
-p {
-    color: #555;
 }
 
 img {
     max-width: 100%;
     height: auto;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 #back-to-top {
     display: block;
     margin: 50px auto;
     text-align: center;
-    padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
-    transition: background-color 0.3s ease;
 }
 
 #back-to-top:hover {
     background-color: #f0f0f0;
+    color: black
 }
 
 .navbar {
     border-bottom: 1px solid #ddd;
-    background-color: #f8f9fa;
+    background-color: #e6e6ea;
 }
 
 .navbar .navbar-nav {
